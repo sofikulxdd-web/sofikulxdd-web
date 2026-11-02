@@ -1,10 +1,10 @@
 <div align="center">
 
-![Sofitech LLC: HTML website templates](./assets/hero.svg?v=1)
+![Sofitech LLC: HTML website templates](./assets/hero.svg?v=2)
 
-![What we do](./assets/about-life.svg?v=1)
+![What we do](./assets/about-life.svg?v=2)
 
-![Tech stack](./assets/stack.svg?v=1)
+![Tech stack](./assets/stack.svg?v=2)
 
 </div>
 
@@ -33,9 +33,9 @@ Browse everything at **[sofitechllc.com/stores](https://sofitechllc.com/stores/)
 
 <div align="center">
 
-![Company ID and dashboard](./assets/id-dashboard.svg?v=1)
+![Company ID and dashboard](./assets/id-dashboard.svg?v=2)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./assets/connect.svg?v=2)
 
 [Website](https://sofitechllc.com/) &nbsp;·&nbsp; [Template store](https://sofitechllc.com/stores/) &nbsp;·&nbsp; [About](https://sofitechllc.com/about-us/) &nbsp;·&nbsp; [Contact](https://sofitechllc.com/contact-us/) &nbsp;·&nbsp; [hello@sofitechllc.com](mailto:hello@sofitechllc.com)
 
